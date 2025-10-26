@@ -1,0 +1,22 @@
+h1, h2, h3 {
+text-shadow: 2px 2px 4px gray;
+}
+
+.highlight {
+font-weight:bold;
+text-decoration: underline;
+color: darkblue;
+}
+
+.education-list {
+list-style-type:square;
+}
+
+.skills-list {
+list-style-type: upper-roman;
+}
+
+.intro {
+font-style:italic;
+margin-bottom:20px;
+}
